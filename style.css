@@ -1,0 +1,19 @@
+@font-face {
+    font-family: font1;
+    src: url(/fonts/Sendcat.ttf);
+}
+
+body{
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggjnPJcLrARQ2QV0CQvRJoknMDsHV4_P_BleOIXKipcBvKWkFc8BY1IgmLVFCN-Ib21mkGipgkSlrKs1_-0KoG-8JshiPrEbIzaYHFtW0uus4JCOTBWjeS_1-09m8HrDk534ypb3UKkuG7uAXKuTDos788UHF4v2R5fbjwk2LSvdVm8kUS2Fg-Ey5N/s3000/portfolio-educacao-infantil.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h2{
+    font-family: font1;
+    font-size: 45px;
+}
+table{
+    font-family: font1;
+    font-size: 32px;
+}
